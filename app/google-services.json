@@ -7,27 +7,27 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:244073920865:android:79798065c121e5c08a6d20",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.example.adviseme"
         }
       },
       "oauth_client": [
         {
-          "client_id": "244073920865-j7ifel9mj1pi0cu1kr8f3msni84bn7c6.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD7FqvcrjM5Y3MUsR65-FCUFgcwJJb4yQ8"
+          "current_key": ""
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "244073920865-j7ifel9mj1pi0cu1kr8f3msni84bn7c6.apps.googleusercontent.com",
+              "client_id": "",
               "client_type": 3
             }
           ]
